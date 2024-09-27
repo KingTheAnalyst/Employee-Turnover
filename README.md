@@ -121,7 +121,7 @@ The analysis of the HR dataset has provided valuable insights into employee attr
 
 ---
 ## Appendix: Dashboard
-![[Image](https://github.com/KingTheAnalyst/Employee-Turnover/blob/main/Screenshot%202024-09-20%20200340.png)
+![Image](https://github.com/KingTheAnalyst/Employee-Turnover/blob/main/Screenshot%202024-09-20%20200340.png)
 
 ## Appendix: SQL Queries for Attrition Analysis
 
